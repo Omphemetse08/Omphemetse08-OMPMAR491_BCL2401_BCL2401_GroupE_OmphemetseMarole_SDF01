@@ -1,3 +1,2 @@
-# Omphemetse08-OMPMAR491_BCL2401_BCL2401_GroupE_OmphemetseMarole_SDF01
-In this project, you'll dive into the world of web development and get hands-on experience with HTML. You'll create a simple portfolio webpage for "CodeSpace Cat" from scratch based on a provided reference image. This project is designed to help you understand the fundamental elements of HTML, such as headings, paragraphs, lists, images, links, and forms, while building an actual webpage.
-Loom video link:
+
+Loom video link:https://www.loom.com/share/0d93324efc664c9aa3c6c9076ee94bd1?sid=10d3b2b2-f65b-4224-8099-4ace66adc055
